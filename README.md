@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/alexelinova/alexelinova/blob/main/updated-banner.gif)]
+![MasterHead](https://github.com/alexelinova/alexelinova/blob/main/updated-banner.gif)
 
 <h1 align="center">Hi there 👋, my name is Alex!</h1>
 <h3 align="center">And I am a self-driven and ambitious Junior Developer.</h3>
